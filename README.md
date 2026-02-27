@@ -36,7 +36,7 @@ A multi-page Power BI report was built to visualize findings from the EDA. The d
 - **Maker Comparison:** Top 10 manufacturers by cumulative EV sales.
 - **Trend View:** Quarterly and yearly EV growth visualization.
 - **State Insights Page:** Drill-down filters for each state showing detailed trend and growth patterns.
-  [!Live Dashboard Link](Screenshot 2026-02-27 142243.png)
+- ![Live Dashboard Link](Screenshot 2026-02-27 142243.png)
 
 
 ---
